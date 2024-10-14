@@ -15,7 +15,9 @@ Game of Life was devised by John Conway in 70s. It is a type of cellular automat
 **_RULE 4_** - Any dead cell with exactly three live neighbours becomes a live cell.
 
 
-##
+## Demo
+
+- https://youtu.be/YQo75eCfo1M
 
 
 ## Compiling
