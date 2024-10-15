@@ -147,11 +147,6 @@ void mouseLogic(){
 }
 
 
-void makeAChoice(){
-    if(IsKeyPressed(KEY_R)){
-
-    }
-}
 
 typedef enum MODE{
     RANDOM,
